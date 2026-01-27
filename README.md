@@ -70,8 +70,7 @@ Interações no Loveble:
 
 > Adicione a funcionalidade de adicionar depósitos às metas existentes, permitindo que o usuário registre contribuições para suas metas financeiras diretamente no card.
 
-Resultado Final no Loveble: 
-
+Resultado Final no Loveble: https://lovable.dev/projects/d6bd1d31-93e2-4929-b2fe-cb425ede0102
 
 Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
 
