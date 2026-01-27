@@ -52,6 +52,26 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.
 ```
+Interações no Loveble:
+
+> Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requeriments Document).
+
+> Implemente a funcionalidade de criar novas metas financeiras através de um formulário ou conversa com o assistente.
+
+> Implemente a funcionalidade de editar e excluir metas existentes na página de Metas, permitindo atualizar valores e corrigir informações.
+
+> Adicione suporte a entrada por voz usando Web Speech API para que usuários possam registrar gastos falando com o assistente.
+
+> Ative o Lovable Cloud para salvar os dados de forma persistente no banco de dados, permitindo que os usuários mantenham seu histórico de transações e metas entre sessões.
+
+> Adicione gráficos de tendência histórica real baseados nos dados do banco, mostrando a evolução dos gastos e receitas ao longo do tempo.
+
+> Implemente notificações e alertas para metas próximas do prazo ou quando o usuário gastar muito em uma categoria específica.
+
+> Adicione a funcionalidade de adicionar depósitos às metas existentes, permitindo que o usuário registre contribuições para suas metas financeiras diretamente no card.
+
+> 
+
 
 Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
 
