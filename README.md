@@ -98,12 +98,77 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
- 
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+
+ # 💸 App de Finanças Pessoais - Conversa Financeira
+
+## 📖 Resumo
+O **Conversa Financeira** é um aplicativo de organização de finanças pessoais que funciona por meio de **conversas naturais** com o usuário.  
+Ele simplifica o controle financeiro sem formulários complexos ou planilhas, oferecendo uma experiência leve, acessível e personalizada.
+
+---
+
+## ✨ Funcionalidades Principais
+
+### 1. Visão Geral Financeira
+- Exibe **saldo do mês**, receitas e despesas.  
+- Mostra rapidamente a saúde financeira do usuário.  
+
+### 2. Insights Inteligentes
+- Mensagens automáticas como:  
+  - “Saldo positivo! Continue assim.”  
+  - “Categoria Alimentação representa 91% dos gastos, considere economizar.”  
+- **Dicas práticas diárias** para manter o controle.
+
+### 3. Registro de Gastos
+- Entrada de dados via **chat em linguagem natural**.  
+- Suporte a **voz** (Web Speech API).  
+- Classificação automática por categoria (ex.: alimentação, transporte).
+
+### 4. Metas Financeiras
+- Criar novas metas por formulário ou conversa.  
+- Editar e excluir metas existentes.  
+- Adicionar depósitos às metas para acompanhar contribuições.  
+- Alertas quando metas estão próximas do prazo ou precisam de atenção.
+
+### 5. Relatórios Visuais
+- **Gráfico de pizza** para despesas por categoria.  
+- **Gráfico de linha** mostrando evolução mensal de receitas e despesas.  
+- Relatórios simples e personalizados para iniciantes.
+
+### 6. Persistência em Nuvem
+- Dados salvos no **Lovable Cloud**, garantindo histórico entre sessões.  
+- Usuário mantém acesso contínuo às transações e metas.
+
+### 7. Notificações Inteligentes
+- Alertas automáticos quando há gastos excessivos em uma categoria.  
+- Lembretes sobre metas financeiras e prazos.
+
+---
+
+## 🎯 Público-Alvo
+- Pessoas que nunca usaram apps de finanças ou desistiram por achar complicado.  
+- Usuários que querem praticidade e dicas rápidas de economia.  
+- Jovens adultos e profissionais que buscam **organização sem burocracia**.
+
+---
+
+## 📊 Plano de Validação Inicial
+- **Métrica 1:** Quantidade de gastos registrados via chat.  
+- **Métrica 2:** Número de metas criadas e atualizadas.  
+- **Métrica 3:** Frequência de uso semanal.  
+- **Métrica 4:** Feedback qualitativo dos usuários sobre clareza e praticidade.  
+
+---
+
+## 💬 Reflexão sobre o Processo
+- **O que funcionou bem:** A clareza dos prompts e a geração de relatórios visuais intuitivos.  
+- **O que não funcionou como esperado:** Ajustes finos na categorização automática de despesas.  
+- **O que aprendi:** Que conversar com a IA de forma clara e intencional é essencial para transformar ideias em soluções práticas.  
+
+---
+
+## 🔗 Repositório
+👉 [GitHub - waldeck-12/dio-lab-vibe-coding-app-financas](https://github.com/waldeck-12/dio-lab-vibe-coding-app-financas.git)
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
